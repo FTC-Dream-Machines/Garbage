@@ -1,0 +1,19 @@
+table{
+	border: 3px;
+	color:blue;
+
+
+
+}
+table th{text-align: left;
+		background-color:orange ;
+		border: 3px;
+		padding: 6px 5px
+		border color:blue;
+}
+table td{text-align: center;
+background-color: yellow}
+h1{color: purple}
+hr{color: green}
+h3{color: yellow}
+ul{color: brown}
